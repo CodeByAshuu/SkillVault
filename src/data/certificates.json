@@ -1,0 +1,123 @@
+[
+  {
+    "id": "python-basics-hr",
+    "title": "Python Basics",
+    "platform": "HackerRank",
+    "field": "Programming",
+    "tags": ["python", "programming", "data-structures"],
+    "certificateUrl": "/certificates/python-basics.pdf",
+    "downloadUrl": "/certificates/python-basics.pdf",
+    "thumbnailUrl": "https://via.placeholder.com/400x300/1a1a2e/00d4ff?text=Python+Basics",
+    "whatILearned": "Mastered Python fundamentals including data structures, loops, functions, and basic object-oriented programming concepts. Gained hands-on experience with problem-solving techniques.",
+    "projects": [
+      {"name": "Expense Tracker", "link": "https://github.com/user/expense-tracker"},
+      {"name": "Password Generator", "link": "https://github.com/user/password-gen"}
+    ]
+  },
+  {
+    "id": "web-dev-bootcamp",
+    "title": "Web Development Bootcamp",
+    "platform": "Udemy",
+    "field": "Web Development",
+    "tags": ["html", "css", "javascript", "react", "node.js", "mongodb"],
+    "certificateUrl": "/certificates/web-dev-bootcamp.pdf",
+    "downloadUrl": "/certificates/web-dev-bootcamp.pdf",
+    "thumbnailUrl": "https://via.placeholder.com/400x300/2d1b69/b19cd9?text=Web+Dev+Bootcamp",
+    "whatILearned": "Complete full-stack development including React frontend, Node.js/Express backend, MongoDB database integration, and deployment strategies. Built multiple real-world projects.",
+    "projects": [
+      {"name": "Blog Platform", "link": "https://github.com/user/blog-app"},
+      {"name": "E-commerce Store", "link": "https://github.com/user/ecommerce"},
+      {"name": "Task Manager", "link": "https://github.com/user/task-manager"}
+    ]
+  },
+  {
+    "id": "react-advanced",
+    "title": "Advanced React Patterns",
+    "platform": "Coursera",
+    "field": "Web Development",
+    "tags": ["react", "javascript", "hooks", "context", "performance"],
+    "certificateUrl": "/certificates/react-advanced.pdf",
+    "downloadUrl": "/certificates/react-advanced.pdf",
+    "thumbnailUrl": "https://via.placeholder.com/400x300/0f4c75/3282b8?text=Advanced+React",
+    "whatILearned": "Deep dive into React hooks, context API, performance optimization, custom hooks, and advanced component patterns. Learned testing strategies with Jest and React Testing Library.",
+    "projects": [
+      {"name": "React Component Library", "link": "https://github.com/user/react-components"},
+      {"name": "Dashboard Analytics", "link": "https://github.com/user/analytics-dashboard"}
+    ]
+  },
+  {
+    "id": "blockchain-fundamentals",
+    "title": "Blockchain Fundamentals",
+    "platform": "W3 Grads",
+    "field": "Blockchain",
+    "tags": ["blockchain", "web3", "smart-contracts", "ethereum"],
+    "certificateUrl": "/certificates/blockchain-fundamentals.pdf",
+    "downloadUrl": "/certificates/blockchain-fundamentals.pdf",
+    "thumbnailUrl": "https://via.placeholder.com/400x300/1a5f3f/4caf50?text=Blockchain+Fundamentals",
+    "whatILearned": "Understanding of blockchain technology, cryptocurrency mechanics, smart contract development, and Web3 integration. Explored DeFi protocols and NFT standards.",
+    "projects": [
+      {"name": "Smart Contract Voting", "link": "https://github.com/user/voting-dapp"},
+      {"name": "NFT Marketplace", "link": "https://github.com/user/nft-marketplace"}
+    ]
+  },
+  {
+    "id": "mysql-mastery",
+    "title": "MySQL Database Mastery",
+    "platform": "GeeksForGeeks",
+    "field": "Database",
+    "tags": ["mysql", "database", "sql", "optimization"],
+    "certificateUrl": "/certificates/mysql-mastery.pdf",
+    "downloadUrl": "/certificates/mysql-mastery.pdf",
+    "thumbnailUrl": "https://via.placeholder.com/400x300/1e3a5f/4a90e2?text=MySQL+Mastery",
+    "whatILearned": "Advanced SQL queries, database design principles, indexing strategies, performance optimization, and complex join operations. Mastered stored procedures and triggers.",
+    "projects": [
+      {"name": "Inventory Management System", "link": "https://github.com/user/inventory-system"},
+      {"name": "Analytics Database", "link": "https://github.com/user/analytics-db"}
+    ]
+  },
+  {
+    "id": "ai-ml-intro",
+    "title": "Introduction to AI & Machine Learning",
+    "platform": "Coursera",
+    "field": "AI/ML",
+    "tags": ["python", "machine-learning", "tensorflow", "data-science"],
+    "certificateUrl": "/certificates/ai-ml-intro.pdf",
+    "downloadUrl": "/certificates/ai-ml-intro.pdf",
+    "thumbnailUrl": "https://via.placeholder.com/400x300/4a148c/9c27b0?text=AI+%26+ML",
+    "whatILearned": "Fundamentals of machine learning algorithms, neural networks, data preprocessing, and model evaluation. Hands-on experience with TensorFlow and scientific computing libraries.",
+    "projects": [
+      {"name": "Image Classifier", "link": "https://github.com/user/image-classifier"},
+      {"name": "Sentiment Analysis", "link": "https://github.com/user/sentiment-analysis"}
+    ]
+  },
+  {
+    "id": "cybersecurity-basics",
+    "title": "Cybersecurity Fundamentals",
+    "platform": "Udemy",
+    "field": "Cybersecurity",
+    "tags": ["security", "encryption", "penetration-testing", "network-security"],
+    "certificateUrl": "/certificates/cybersecurity-basics.pdf",
+    "downloadUrl": "/certificates/cybersecurity-basics.pdf",
+    "thumbnailUrl": "https://via.placeholder.com/400x300/b71c1c/f44336?text=Cybersecurity",
+    "whatILearned": "Network security principles, encryption techniques, vulnerability assessment, and penetration testing methodologies. Understanding of security frameworks and compliance.",
+    "projects": [
+      {"name": "Network Scanner", "link": "https://github.com/user/network-scanner"},
+      {"name": "Security Audit Tool", "link": "https://github.com/user/security-audit"}
+    ]
+  },
+  {
+    "id": "data-structures-cpp",
+    "title": "Data Structures & Algorithms in C++",
+    "platform": "LeetCode",
+    "field": "Programming",
+    "tags": ["cpp", "data-structures", "algorithms", "problem-solving"],
+    "certificateUrl": "/certificates/dsa-cpp.pdf",
+    "downloadUrl": "/certificates/dsa-cpp.pdf",
+    "thumbnailUrl": "https://via.placeholder.com/400x300/1565c0/2196f3?text=DSA+C%2B%2B",
+    "whatILearned": "Advanced data structures (trees, graphs, heaps) and algorithm optimization techniques. Mastered time and space complexity analysis with competitive programming skills.",
+    "projects": [
+      {"name": "Algorithm Visualizer", "link": "https://github.com/user/algo-visualizer"},
+      {"name": "Competitive Programming Solutions", "link": "https://github.com/user/cp-solutions"}
+    ]
+  }
+]
