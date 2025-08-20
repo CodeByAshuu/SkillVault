@@ -58,7 +58,7 @@ export function SpecialCertificate({ certificate, onView }: SpecialCertificatePr
                 <div className="relative group w-full">
                   <div className="aspect-[4/3] overflow-hidden shadow-2xl">
                     <img
-                      src="public/certificates/thumbnails/Mern with Gen AI W3Grads.png"
+                      src="https://github.com/CodeByAshuu/SkillVault/blob/main/public/certificates/thumbnails/MERN%20with%20Gen%20AI%20W3Grads.png"
                       alt="Featured Certificate"
                       className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                     />
@@ -156,7 +156,7 @@ export function SpecialCertificate({ certificate, onView }: SpecialCertificatePr
                     className="flex-1 sm:flex-none"
                     size="lg"
                   >
-                    <Eye className="w-8 h-8 mr-2" />
+                    <Eye className="w-4 h-4 mr-2" />
                     View Certificate
                   </Button>
                   <Button
