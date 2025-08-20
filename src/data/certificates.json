@@ -81,9 +81,9 @@
     "platform": "NeoColab",
     "field": "Programming",
     "tags": ["c", "data-structures","problem-solving"],
-    "certificateUrl": "/certificates/thumbnails/c neo.png",
+    "certificateUrl": "/certificates/thumbnails/C neo.png",
     "downloadUrl": "/certificates/pdfs/C neo.pdf",
-    "thumbnailUrl": "/certificates/thumbnails/c neo.png",
+    "thumbnailUrl": "/certificates/thumbnails/C neo.png",
     "whatILearned": "Fundamentals of machine learning algorithms, neural networks, data preprocessing, and model evaluation. Hands-on experience with TensorFlow and scientific computing libraries.",
     "projects": [
       {"name": "Image Classifier", "link": "https://github.com/user/image-classifier"},
