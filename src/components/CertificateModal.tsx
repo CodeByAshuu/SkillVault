@@ -54,9 +54,9 @@ export function CertificateModal({ certificate, isOpen, onClose }: CertificateMo
             <img
               src={certificate.thumbnailUrl}
               alt={certificate.title}
-              className="w-full h-64 md:h-96 object-cover"
+              className="w-full h-120 md:h-98 object-cover"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-card/60 to-transparent" />
+            {/* <div className="absolute inset-0 bg-gradient-to-t from-card/60 to-transparent" /> */}
           </div>
 
           {/* Certificate Info */}
