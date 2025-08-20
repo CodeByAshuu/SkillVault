@@ -126,9 +126,9 @@ const Index = () => {
           platform: "W3 Grads",
           field: "Web Development",
           tags: ["html", "css", "javascript", "reactjs", "expressjs" , "nodejs", "mongodb" , "git", "github", "JWT", "ai integration"],
-          certificateUrl: "/public/certificates/thumbnails/MERN with Gen AI W3Grads.png",
+          certificateUrl: "/certificates/thumbnails/MERN with Gen AI W3Grads.png",
           downloadUrl: "/certificates/pdfs/MERN with Gen AI W3Grads.pdf",
-          thumbnailUrl: "../public/certificates/thumbnails/MERN with Gen AI W3Grads.png",
+          thumbnailUrl: "https://github.com/CodeByAshuu/SkillVault/blob/main/public/certificates/thumbnails/MERN%20with%20Gen%20AI%20W3Grads.png",
           whatILearned: "Advanced data structures (trees, graphs, heaps) and algorithm optimization techniques. Mastered time and space complexity analysis with competitive programming skills.",
           projects: [
             {"name": "Algorithm Visualizer", "link": "https://github.com/user/algo-visualizer"},
