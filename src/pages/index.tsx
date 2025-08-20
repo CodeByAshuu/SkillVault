@@ -6,7 +6,7 @@ import { CertificateCard } from "@/components/CertificateCard";
 import { FilterBar } from "@/components/FilterBar";
 import { CertificateModal } from "@/components/CertificateModal";
 import certificatesData from "@/data/certificates.json";
-// import heroImage from "@/assets/hero-bg.jpg";
+import { SpecialCertificate } from "@/components/SpecialCertificate";
 import SplashCursor from '@/components/SplashCursor';
 
 interface Certificate {
@@ -117,6 +117,26 @@ const Index = () => {
           </div>
         </div>
       </section>
+      {/* Special Certificate Section */}
+      {/* Special Certificate Section */}
+      <SpecialCertificate 
+        certificate={{
+          id: "mern-w-genai-w3grads",
+          title: "MERN Stack with Gen Ai",
+          platform: "W3 Grads",
+          field: "Web Development",
+          tags: ["html", "css", "javascript", "reactjs", "expressjs" , "nodejs", "mongodb" , "git", "github", "JWT", "ai integration"],
+          certificateUrl: "/public/certificates/thumbnails/MERN with Gen AI W3Grads.png",
+          downloadUrl: "/certificates/pdfs/MERN with Gen AI W3Grads.pdf",
+          thumbnailUrl: "../public/certificates/thumbnails/MERN with Gen AI W3Grads.png",
+          whatILearned: "Advanced data structures (trees, graphs, heaps) and algorithm optimization techniques. Mastered time and space complexity analysis with competitive programming skills.",
+          projects: [
+            {"name": "Algorithm Visualizer", "link": "https://github.com/user/algo-visualizer"},
+            {"name": "Competitive Programming Solutions", "link": "https://github.com/user/cp-solutions"}
+          ]
+        }} 
+        onView={handleViewCertificate}
+      />
 
       {/* Certificates Section */}
       <section className="py-20 container mx-auto px-4">
