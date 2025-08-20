@@ -1,7 +1,7 @@
 import type { Config } from "tailwindcss";
 
 export default {
-	darkMode: "class",
+	darkMode: ["class"],
 	content: [
 		"./pages/**/*.{ts,tsx}",
 		"./components/**/*.{ts,tsx}",
@@ -20,6 +20,7 @@ export default {
 		extend: {
 			fontFamily: {
 				inter: ['Inter', 'sans-serif'],
+				mono: ['JetBrains Mono', 'monospace'],
 			},
 			colors: {
 				border: 'hsl(var(--border))',
@@ -70,29 +71,10 @@ export default {
 					from: { height: 'var(--radix-accordion-content-height)', opacity: '1' },
 					to: { height: '0', opacity: '0' }
 				},
-				'wave-rotate': {
-					'0%': { transform: 'translate(-50%, -50%) rotate(0deg)' },
-					'100%': { transform: 'translate(-50%, -50%) rotate(360deg)' }
-				},
-				'cursor-blink': {
-					'0%, 50%': { opacity: '1' },
-					'51%, 100%': { opacity: '0' }
-				},
-				'float-up': {
-					'0%': {
-						opacity: '0',
-						transform: 'translateY(100px) translateX(0px)'
-					},
-					'10%': {
-						opacity: '1'
-					},
-					'90%': {
-						opacity: '1'
-					},
-					'100%': {
-						opacity: '0',
-						transform: 'translateY(-100px) translateX(50px)'
-					}
+				'wave-flow': {
+					'0%': { transform: 'translateX(-50%)' },
+					'50%': { transform: 'translateX(-25%)' },
+					'100%': { transform: 'translateX(-50%)' }
 				},
 				'fade-in': {
 					'0%': { opacity: '0', transform: 'translateY(20px)' },
@@ -113,9 +95,7 @@ export default {
 				'fade-in': 'fade-in 0.6s ease-out',
 				'scale-in': 'scale-in 0.4s ease-out',
 				'slide-up': 'slide-up 0.6s ease-out',
-				'wave-rotate': 'wave-rotate 8s linear infinite',
-				'cursor-blink': 'cursor-blink 1s infinite',
-				'float-up': 'float-up 6s infinite ease-in-out'
+				'wave-flow': 'wave-flow 8s ease-in-out infinite'
 			}
 		}
 	},

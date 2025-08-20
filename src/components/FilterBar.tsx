@@ -48,7 +48,7 @@ export function FilterBar({ onSearch, onFilterChange, certificates }: FilterBarP
   };
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-4">
       {/* Search Bar */}
       <div className="relative max-w-md mx-auto">
         <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-muted-foreground w-4 h-4" />
@@ -60,31 +60,14 @@ export function FilterBar({ onSearch, onFilterChange, certificates }: FilterBarP
         />
       </div>
 
-      {/* Filter Toggle */}
-      <div className="flex justify-center">
-        <Button
-          variant="outline"
-          onClick={() => setShowFilters(!showFilters)}
-          className="gap-2"
-        >
-          <Filter className="w-4 h-4" />
-          Filters
-          {activeFilters.length > 0 && (
-            <Badge variant="secondary" className="ml-2">
-              {activeFilters.length}
-            </Badge>
-          )}
-        </Button>
-      </div>
-
-      {/* Active Filters */}
+      {/* Active Filters - Show beneath search bar */}
       {activeFilters.length > 0 && (
-        <div className="flex flex-wrap gap-2 justify-center">
+        <div className="flex flex-wrap gap-2 justify-center max-w-2xl mx-auto">
           {activeFilters.map(filter => (
             <Badge
               key={filter}
               variant="default"
-              className="cursor-pointer hover:scale-105 transition-transform"
+              className="cursor-pointer hover:scale-105 transition-transform font-mono text-xs"
               onClick={() => toggleFilter(filter)}
             >
               {filter}
@@ -95,12 +78,29 @@ export function FilterBar({ onSearch, onFilterChange, certificates }: FilterBarP
             variant="ghost"
             size="sm"
             onClick={clearAllFilters}
-            className="text-xs h-6"
+            className="text-xs h-6 font-mono"
           >
             Clear All
           </Button>
         </div>
       )}
+
+      {/* Filter Toggle - Moved to right side */}
+      <div className="flex justify-end">
+        <Button
+          variant="outline"
+          onClick={() => setShowFilters(!showFilters)}
+          className="gap-2 font-mono text-sm"
+        >
+          <Filter className="w-4 h-4" />
+          {showFilters ? 'Hide Filters' : 'Show Filters'}
+          {activeFilters.length > 0 && (
+            <Badge variant="secondary" className="ml-2 font-mono">
+              {activeFilters.length}
+            </Badge>
+          )}
+        </Button>
+      </div>
 
       {/* Filter Options */}
       {showFilters && (
@@ -108,7 +108,7 @@ export function FilterBar({ onSearch, onFilterChange, certificates }: FilterBarP
           <div className="grid md:grid-cols-3 gap-6">
             {filterCategories.map(category => (
               <div key={category.name}>
-                <h3 className="font-medium text-primary mb-3">{category.name}</h3>
+                <h3 className="font-mono font-semibold text-primary mb-3 text-sm uppercase tracking-wider">{category.name}</h3>
                 <div className="space-y-2">
                   {category.options.map(option => (
                     <Button
@@ -116,7 +116,7 @@ export function FilterBar({ onSearch, onFilterChange, certificates }: FilterBarP
                       variant={activeFilters.includes(option) ? "default" : "ghost"}
                       size="sm"
                       onClick={() => toggleFilter(option)}
-                      className="w-full justify-start text-left"
+                      className="w-full justify-start text-left font-mono text-xs"
                     >
                       {option}
                     </Button>
