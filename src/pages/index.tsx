@@ -63,7 +63,7 @@ const Index = () => {
   return (
     <div className="min-h-screen">
       {/* Hero Section */}
-      <SplashCursor />
+      {/* <SplashCursor /> */}
       <section className="relative min-h-screen flex items-center justify-center wave-bg">
         {/* Floating dots */}
         {/* <div className="floating-dots">
