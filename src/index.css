@@ -77,40 +77,24 @@
     position: relative;
     overflow: hidden;
   }
-  
+
   .wave-bg::before {
-    content: '';
+    content: "";
     position: absolute;
-    top: 50%;
-    left: 50%;
+    bottom: 0;
+    left: 0;
     width: 200%;
-    height: 200%;
-    background: linear-gradient(45deg, 
-      transparent 30%, 
-      hsl(var(--primary) / 0.1) 50%, 
-      transparent 70%);
-    border-radius: 50%;
-    animation: wave-rotate 8s linear infinite;
-    transform-origin: center;
-    z-index: -1;
+    height: 100%;
+    background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 320'><path fill='%23a855f7' fill-opacity='0.1' d='M0,224L48,202.7C96,181,192,139,288,149.3C384,160,480,224,576,224C672,224,768,160,864,144C960,128,1056,160,1152,181.3C1248,203,1344,213,1392,218.7L1440,224L1440,320L0,320Z'></path></svg>");
+    background-size: cover;
+    animation: waveMove 10s linear infinite;
   }
-  
-  .wave-bg::after {
-    content: '';
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 150%;
-    height: 150%;
-    background: linear-gradient(-45deg, 
-      transparent 30%, 
-      hsl(var(--secondary) / 0.08) 50%, 
-      transparent 70%);
-    border-radius: 50%;
-    animation: wave-rotate 12s linear infinite reverse;
-    transform-origin: center;
-    z-index: -1;
+
+  @keyframes waveMove {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
   }
+
   
   /* Typing cursor animation */
   .typing-cursor::after {

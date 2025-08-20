@@ -7,7 +7,7 @@ import { Search, Filter, X } from "lucide-react";
 interface FilterBarProps {
   onSearch: (query: string) => void;
   onFilterChange: (filters: string[]) => void;
-  certificates: any[];
+  certificates: { platform: string; field: string; tags: string[] }[];
 }
 
 export function FilterBar({ onSearch, onFilterChange, certificates }: FilterBarProps) {
