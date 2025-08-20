@@ -128,7 +128,7 @@
     "tags": ["java", "data-structures", "algorithms", "problem-solving"],
     "certificateUrl": "public/certificates/thumbnails/Java neo.png",
     "downloadUrl": "public/certificates/pdfs/Java neo.pdf",
-    "thumbnailUrl": "public/certificates/thumbnails/Java neo.png",
+    "thumbnailUrl": "@/public/certificates/thumbnails/Java neo.png",
     "whatILearned": "Advanced data structures (trees, graphs, heaps) and algorithm optimization techniques. Mastered time and space complexity analysis with competitive programming skills.",
     "projects": [
       {"name": "Algorithm Visualizer", "link": "https://github.com/user/algo-visualizer"},
