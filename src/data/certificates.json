@@ -6,8 +6,8 @@
     "field": "Programming",
     "tags": ["python", "data-structures"],
     "certificateUrl": "pubilc/certificates/thumbnails/python-basic-hackerrank.png",
-    "downloadUrl": "public/certificates/pdfs/python basic hackerrank.pdf",
-    "thumbnailUrl": "public/certificates/thumbnails/python-basic-hackerrank.png",
+    "downloadUrl": "/certificates/pdfs/python basic hackerrank.pdf",
+    "thumbnailUrl": "/certificates/thumbnails/python-basic-hackerrank.png",
     "whatILearned": "Mastered Python fundamentals including data structures, loops, functions, and basic object-oriented programming concepts. Gained hands-on experience with problem-solving techniques.",
     "projects": [
       {"name": "Expense Tracker", "link": "https://github.com/user/expense-tracker"},
