@@ -137,7 +137,7 @@ const Index = () => {
         />
 
         {/* Results Counter */}
-        <div className="text-center mb-8">
+        <div className="text-center my-8">
           <Badge variant="outline" className="text-lg px-4 py-2">
             {filteredCertificates.length} certificate{filteredCertificates.length !== 1 ? 's' : ''} found
           </Badge>
