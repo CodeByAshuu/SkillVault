@@ -76,7 +76,7 @@
     ]
   },
   {
-    "id": "c",
+    "id": "c-neo",
     "title": "C",
     "platform": "NeoColab",
     "field": "Programming",
@@ -91,7 +91,7 @@
     ]
   },
   {
-    "id": "cpp",
+    "id": "cpp-neo",
     "title": "C++",
     "platform": "NeoColab",
     "field": "Programming",
@@ -106,7 +106,7 @@
     ]
   },
   {
-    "id": "data-structures-cpp",
+    "id": "data-structures-cpp-neo",
     "title": "Data Structures & Algorithms in C++",
     "platform": "NeoColab",
     "field": "Programming",
@@ -114,6 +114,21 @@
     "certificateUrl": "public/certificates/thumbnails/C++ DSA neo.png",
     "downloadUrl": "public/certificates/pdfs/C++ DSA neo.pdf",
     "thumbnailUrl": "public/certificates/thumbnails/C++ DSA neo.png",
+    "whatILearned": "Advanced data structures (trees, graphs, heaps) and algorithm optimization techniques. Mastered time and space complexity analysis with competitive programming skills.",
+    "projects": [
+      {"name": "Algorithm Visualizer", "link": "https://github.com/user/algo-visualizer"},
+      {"name": "Competitive Programming Solutions", "link": "https://github.com/user/cp-solutions"}
+    ]
+  },
+  {
+    "id": "java-neo",
+    "title": "Java",
+    "platform": "NeoColab",
+    "field": "Programming",
+    "tags": ["java", "data-structures", "algorithms", "problem-solving"],
+    "certificateUrl": "public/certificates/thumbnails/Java neo.png",
+    "downloadUrl": "public/certificates/pdfs/Java neo.pdf",
+    "thumbnailUrl": "public/certificates/thumbnails/Java neo.png",
     "whatILearned": "Advanced data structures (trees, graphs, heaps) and algorithm optimization techniques. Mastered time and space complexity analysis with competitive programming skills.",
     "projects": [
       {"name": "Algorithm Visualizer", "link": "https://github.com/user/algo-visualizer"},
