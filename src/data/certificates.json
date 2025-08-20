@@ -5,7 +5,7 @@
     "platform": "HackerRank",
     "field": "Programming",
     "tags": ["python", "data-structures"],
-    "certificateUrl": "pubilc/certificates/thumbnails/python-basic-hackerrank.png",
+    "certificateUrl": "/certificates/thumbnails/python-basic-hackerrank.png",
     "downloadUrl": "/certificates/pdfs/python basic hackerrank.pdf",
     "thumbnailUrl": "/certificates/thumbnails/python-basic-hackerrank.png",
     "whatILearned": "Mastered Python fundamentals including data structures, loops, functions, and basic object-oriented programming concepts. Gained hands-on experience with problem-solving techniques.",
@@ -22,7 +22,7 @@
     "tags": ["css", "web-development"],
     "certificateUrl": "/certificates/thumbnails/css basic hackerank.png",
     "downloadUrl": "/certificates/pdfs/css basic hackerrank.pdf",
-    "thumbnailUrl": "/certificates/thumbnails/css basic hackerank.png",
+    "thumbnailUrl": "/certificates/thumbnails/css-basic-hackerank.png",
     "whatILearned": "Complete full-stack development including React frontend, Node.js/Express backend, MongoDB database integration, and deployment strategies. Built multiple real-world projects.",
     "projects": [
       {"name": "Blog Platform", "link": "https://github.com/user/blog-app"},
