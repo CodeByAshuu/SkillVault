@@ -52,7 +52,7 @@ export function CertificateCard({ certificate, onView }: CertificateCardProps) {
           <div className="absolute inset-0 bg-gradient-to-t from-card/80 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
           
           {/* Platform Badge */}
-          <Badge className="absolute top-3 right-3 bg-card border border-border">
+          <Badge className="absolute top-3 right-3 bg-background/80 text-foreground border border-border/50 backdrop-blur-sm" variant="secondary">
             {certificate.platform}
           </Badge>
         </div>
