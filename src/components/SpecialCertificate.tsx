@@ -58,7 +58,7 @@ export function SpecialCertificate({ certificate, onView }: SpecialCertificatePr
                 <div className="relative group w-full">
                   <div className="aspect-[4/3] overflow-hidden shadow-2xl">
                     <img
-                      src="https://github.com/CodeByAshuu/SkillVault/blob/main/public/certificates/thumbnails/MERN%20with%20Gen%20AI%20W3Grads.png"
+                      src="/certificates/thumbnails/MERN with Gen AI W3Grads.png"
                       alt="Featured Certificate"
                       className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                     />
