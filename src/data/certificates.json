@@ -36,8 +36,8 @@
     "platform": "HackerRank",
     "field": "Web Development",
     "tags": ["javascript", "web-development"],
-    "certificateUrl": "/certificates/react-advanced.pdf",
-    "downloadUrl": "/certificates/react-advanced.pdf",
+    "certificateUrl": "/certificates/thumbnails/js basic hackerrank.png",
+    "downloadUrl": "/certificates/pdfs/js basic hackerrank.pdf",
     "thumbnailUrl": "/certificates/thumbnails/js basic hackerrank.png",
     "whatILearned": "Deep dive into React hooks, context API, performance optimization, custom hooks, and advanced component patterns. Learned testing strategies with Jest and React Testing Library.",
     "projects": [
