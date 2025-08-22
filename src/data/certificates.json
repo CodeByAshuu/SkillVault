@@ -10,8 +10,8 @@
     "thumbnailUrl": "/certificates/thumbnails/python-basic-hackerrank.png",
     "whatILearned": "Mastered Python fundamentals including data structures, loops, functions, and basic object-oriented programming concepts. Gained hands-on experience with problem-solving techniques.",
     "projects": [
-      {"name": "Expense Tracker", "link": "https://github.com/user/expense-tracker"},
-      {"name": "Password Generator", "link": "https://github.com/user/password-gen"}
+      {"name": "pyTkinter", "link": "https://github.com/CodeByAshuu/pyTkinter"},
+      {"name": "Mini-Game-Py", "link": "https://github.com/CodeByAshuu/Mini-Game-Py"}
     ]
   },
   {
@@ -25,9 +25,10 @@
     "thumbnailUrl": "/certificates/thumbnails/css-basic-hackerank.png",
     "whatILearned": "Complete full-stack development including React frontend, Node.js/Express backend, MongoDB database integration, and deployment strategies. Built multiple real-world projects.",
     "projects": [
-      {"name": "Blog Platform", "link": "https://github.com/user/blog-app"},
-      {"name": "E-commerce Store", "link": "https://github.com/user/ecommerce"},
-      {"name": "Task Manager", "link": "https://github.com/user/task-manager"}
+      {"name": "Cara- Fashion Retail", "link": "https://github.com/CodeByAshuu/Cara-FashionRetailWebsite"},
+      {"name": "Taskly", "link": "https://github.com/CodeByAshuu/Taskly"},
+      {"name": "Apple-Clone", "link": "https://github.com/CodeByAshuu/Apple-HomePage"}
+      
     ]
   },
   {
@@ -41,8 +42,9 @@
     "thumbnailUrl": "/certificates/thumbnails/js basic hackerrank.png",
     "whatILearned": "Deep dive into React hooks, context API, performance optimization, custom hooks, and advanced component patterns. Learned testing strategies with Jest and React Testing Library.",
     "projects": [
-      {"name": "React Component Library", "link": "https://github.com/user/react-components"},
-      {"name": "Dashboard Analytics", "link": "https://github.com/user/analytics-dashboard"}
+      {"name": "Taskly", "link": "https://github.com/CodeByAshuu/Taskly"},
+      {"name": "Field Canvas", "link": "https://github.com/CodeByAshuu/fieldCanvas"},
+      {"name": "Cyber-Login: SQL injection", "link": "https://github.com/CodeByAshuu/cyber-login"}
     ]
   },
   {
@@ -56,8 +58,12 @@
     "thumbnailUrl": "/certificates/thumbnails/js intermediate hackerrank.png",
     "whatILearned": "Understanding of blockchain technology, cryptocurrency mechanics, smart contract development, and Web3 integration. Explored DeFi protocols and NFT standards.",
     "projects": [
-      {"name": "Smart Contract Voting", "link": "https://github.com/user/voting-dapp"},
-      {"name": "NFT Marketplace", "link": "https://github.com/user/nft-marketplace"}
+      {"name": "Field Canvas", "link": "https://github.com/CodeByAshuu/fieldCanvas"},
+      {"name": "Cyber-Login: SQL injection", "link": "https://github.com/CodeByAshuu/cyber-login"},
+      {"name": "BounceBalls", "link": "https://github.com/CodeByAshuu/BounceBalls"},
+      {"name": "Dynamic Paragraph Styler", "link": "https://github.com/CodeByAshuu/Dynamic-Paragraph-Styler"},
+      {"name": "Age-Calculator", "link": "https://github.com/CodeByAshuu/Age-O-Meter"},
+      {"name": "TicTacToe", "link": "https://github.com/CodeByAshuu/TicTacToe"}
     ]
   },
   {
@@ -71,8 +77,8 @@
     "thumbnailUrl": "/certificates/thumbnails/sql basic hackerrank.png",
     "whatILearned": "Advanced SQL queries, database design principles, indexing strategies, performance optimization, and complex join operations. Mastered stored procedures and triggers.",
     "projects": [
-      {"name": "Inventory Management System", "link": "https://github.com/user/inventory-system"},
-      {"name": "Analytics Database", "link": "https://github.com/user/analytics-db"}
+      {"name": "Cyber-Login: SQL injection", "link": "https://github.com/CodeByAshuu/cyber-login"},
+      {"name": "Grocery-Store", "link": "https://github.com/CodeByAshuu/Grocery-Store"}
     ]
   },
   {
