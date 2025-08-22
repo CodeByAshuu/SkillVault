@@ -81,6 +81,36 @@
       {"name": "Grocery-Store", "link": "https://github.com/CodeByAshuu/Grocery-Store"}
     ]
   },
+    {
+    "id": "sql-intermediate-hr",
+    "title": "MySQL Intermediate",
+    "platform": "HackerRank",
+    "field": "Database",
+    "tags": ["mysql", "sql", "optimization"],
+    "certificateUrl": "/certificates/thumbnails/sql intermediate hackerrank.png",
+    "downloadUrl": "/certificates/pdfs/sql intermediate hackerrank.pdf",
+    "thumbnailUrl": "/certificates/thumbnails/sql intermediate hackerrank.png",
+    "whatILearned": "Advanced SQL queries, database design principles, indexing strategies, performance optimization, and complex join operations. Mastered stored procedures and triggers.",
+    "projects": [
+      {"name": "Cyber-Login: SQL injection", "link": "https://github.com/CodeByAshuu/cyber-login"},
+      {"name": "SyllabiSync", "link": "https://github.com/CodeByAshuu/SyllabiSync"}
+    ]
+  },
+    {
+    "id": "sql-advanced-hr",
+    "title": "MySQL Advanced",
+    "platform": "HackerRank",
+    "field": "Database",
+    "tags": ["mysql", "sql", "optimization"],
+    "certificateUrl": "/certificates/thumbnails/sql advanced hackerrank.png",
+    "downloadUrl": "/certificates/pdfs/sql advanced hackerrank.pdf",
+    "thumbnailUrl": "/certificates/thumbnails/sql advanced hackerrank.png",
+    "whatILearned": "Advanced SQL queries, database design principles, indexing strategies, performance optimization, and complex join operations. Mastered stored procedures and triggers.",
+    "projects": [
+      {"name": "Cyber-Login: SQL injection", "link": "https://github.com/CodeByAshuu/cyber-login"},
+      {"name": "SyllabiSync", "link": "https://github.com/CodeByAshuu/SyllabiSync"}
+    ]
+  },
   {
     "id": "c-neo",
     "title": "C",
