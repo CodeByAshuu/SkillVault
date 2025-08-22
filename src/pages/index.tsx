@@ -65,15 +65,6 @@ const Index = () => {
       {/* Hero Section */}
       {/* <SplashCursor /> */}
       <section className="relative min-h-screen flex items-center justify-center wave-bg">
-        {/* Floating dots */}
-        {/* <div className="floating-dots">
-          <div className="floating-dot" style={{ left: '10%', animationDelay: '0s' }}></div>
-          <div className="floating-dot" style={{ left: '20%', animationDelay: '1s' }}></div>
-          <div className="floating-dot" style={{ left: '80%', animationDelay: '2s' }}></div>
-          <div className="floating-dot" style={{ left: '90%', animationDelay: '3s' }}></div>
-        </div> */}
-        
-        
         <div className="relative z-10 container mx-auto px-4 text-center">
           <div className="animate-fade-in">            
             <h1 className="text-5xl md:text-7xl font-bold mb-6 typing-cursor">
