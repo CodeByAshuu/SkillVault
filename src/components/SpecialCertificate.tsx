@@ -103,9 +103,12 @@ export function SpecialCertificate({ certificate, onView }: SpecialCertificatePr
                     What I Learned
                   </h4>
                   <p className="text-muted-foreground leading-relaxed">
-                    Mastered the fundamentals of web development including semantic HTML5, modern CSS3 techniques, 
-                    responsive design principles, CSS Flexbox and Grid layouts, web accessibility standards, 
-                    and best practices for creating user-friendly, mobile-first websites that work across all devices.
+                    Mastered full-stack web development using the MERN stack (MongoDB, Express.js, React.js, Node.js) 
+                    with a focus on integrating Generative AI technologies. 
+                    Gained hands-on experience with building scalable web applications, implementing JWT authentication, 
+                    and utilizing Git and GitHub for version control. 
+                    Learned about AI integration techniques to enhance user experiences in web applications. 
+                    SCRUM and Agile methodologies for project management.
                   </p>
                 </div>
 
@@ -116,8 +119,8 @@ export function SpecialCertificate({ certificate, onView }: SpecialCertificatePr
                   </h4>
                   <div className="grid sm:grid-cols-2 gap-3">
                     {[
-                      { name: "Algorithm Visualizer", link: "#" },
-                      { name: "Competitive Programming Solutions", link: "#" }
+                      {"name": "Krush AI", "link": "https://krush-ai.vercel.app/"},
+                      {"name": "OpenShelf", "link": "https://openshelf-beige.vercel.app/"}
                     ].map((project) => (
                       <a
                         key={project.name}
