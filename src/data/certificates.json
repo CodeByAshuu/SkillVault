@@ -23,7 +23,7 @@
     "certificateUrl": "/certificates/thumbnails/css basic hackerank.png",
     "downloadUrl": "/certificates/pdfs/css basic hackerrank.pdf",
     "thumbnailUrl": "/certificates/thumbnails/css-basic-hackerank.png",
-    "whatILearned": "Complete full-stack development including React frontend, Node.js/Express backend, MongoDB database integration, and deployment strategies. Built multiple real-world projects.",
+    "whatILearned": "Mastered CSS fundamentals including selectors, box model, flexbox, grid layout, and responsive design principles. Gained hands-on experience with styling web pages.",
     "projects": [
       {"name": "Cara- Fashion Retail", "link": "https://github.com/CodeByAshuu/Cara-FashionRetailWebsite"},
       {"name": "Taskly", "link": "https://github.com/CodeByAshuu/Taskly"},
@@ -40,7 +40,7 @@
     "certificateUrl": "/certificates/thumbnails/js basic hackerrank.png",
     "downloadUrl": "/certificates/pdfs/js basic hackerrank.pdf",
     "thumbnailUrl": "/certificates/thumbnails/js basic hackerrank.png",
-    "whatILearned": "Deep dive into React hooks, context API, performance optimization, custom hooks, and advanced component patterns. Learned testing strategies with Jest and React Testing Library.",
+    "whatILearned": "Mastered JavaScript fundamentals including variables, data types, functions, DOM manipulation, and event handling. Gained hands-on experience with interactive web development.",
     "projects": [
       {"name": "Taskly", "link": "https://github.com/CodeByAshuu/Taskly"},
       {"name": "Field Canvas", "link": "https://github.com/CodeByAshuu/fieldCanvas"},
@@ -56,7 +56,7 @@
     "certificateUrl": "/certificates/thumbnails/js intermediate hackerrank.png",
     "downloadUrl": "/certificates/pdfs/js intermediate hackerrank.pdf",
     "thumbnailUrl": "/certificates/thumbnails/js intermediate hackerrank.png",
-    "whatILearned": "Understanding of blockchain technology, cryptocurrency mechanics, smart contract development, and Web3 integration. Explored DeFi protocols and NFT standards.",
+    "whatILearned": "Mastered Intermediate JavaScript concepts including asynchronous programming, closures, and ES6 features. Gained hands-on experience with building interactive web applications.",
     "projects": [
       {"name": "Field Canvas", "link": "https://github.com/CodeByAshuu/fieldCanvas"},
       {"name": "Cyber-Login: SQL injection", "link": "https://github.com/CodeByAshuu/cyber-login"},
@@ -75,7 +75,7 @@
     "certificateUrl": "/certificates/thumbnails/sql basic hackerrank.png",
     "downloadUrl": "/certificates/pdfs/sql basic hackerrank.pdf",
     "thumbnailUrl": "/certificates/thumbnails/sql basic hackerrank.png",
-    "whatILearned": "Advanced SQL queries, database design principles, indexing strategies, performance optimization, and complex join operations. Mastered stored procedures and triggers.",
+    "whatILearned": "Fundamentals of SQL including data retrieval, filtering, sorting, and basic aggregation. Gained hands-on experience with database management and query optimization.",
     "projects": [
       {"name": "Cyber-Login: SQL injection", "link": "https://github.com/CodeByAshuu/cyber-login"},
       {"name": "Grocery-Store", "link": "https://github.com/CodeByAshuu/Grocery-Store"}
@@ -90,7 +90,7 @@
     "certificateUrl": "/certificates/thumbnails/sql intermediate hackerrank.png",
     "downloadUrl": "/certificates/pdfs/sql intermediate hackerrank.pdf",
     "thumbnailUrl": "/certificates/thumbnails/sql intermediate hackerrank.png",
-    "whatILearned": "Advanced SQL queries, database design principles, indexing strategies, performance optimization, and complex join operations. Mastered stored procedures and triggers.",
+    "whatILearned": "Intermediate SQL concepts including complex queries, joins, subqueries, and data manipulation. Gained hands-on experience with database normalization and indexing techniques.",
     "projects": [
       {"name": "Cyber-Login: SQL injection", "link": "https://github.com/CodeByAshuu/cyber-login"},
       {"name": "SyllabiSync", "link": "https://github.com/CodeByAshuu/SyllabiSync"}
@@ -120,7 +120,7 @@
     "certificateUrl": "/certificates/thumbnails/C neo.png",
     "downloadUrl": "/certificates/pdfs/C neo.pdf",
     "thumbnailUrl": "/certificates/thumbnails/C neo.png",
-    "whatILearned": "Fundamentals of machine learning algorithms, neural networks, data preprocessing, and model evaluation. Hands-on experience with TensorFlow and scientific computing libraries.",
+    "whatILearned": "Mastered C programming fundamentals including data types, control structures, functions, and pointers. Gained hands-on experience with memory management and low-level programming.",
     "projects": [
       {"name": "Image Classifier", "link": "https://github.com/user/image-classifier"},
       {"name": "Sentiment Analysis", "link": "https://github.com/user/sentiment-analysis"}
@@ -135,7 +135,7 @@
     "certificateUrl": "/certificates/thumbnails/Cpp-neo.png",
     "downloadUrl": "/certificates/pdfs/Cpp-neo.pdf",
     "thumbnailUrl": "/certificates/thumbnails/Cpp-neo.png",
-    "whatILearned": "Network security principles, encryption techniques, vulnerability assessment, and penetration testing methodologies. Understanding of security frameworks and compliance.",
+    "whatILearned": "Mastered C++ programming fundamentals including object-oriented programming, data structures, and algorithms. Gained hands-on experience with STL (Standard Template Library) and memory management.",
     "projects": [
       {"name": "Network Scanner", "link": "https://github.com/user/network-scanner"},
       {"name": "Security Audit Tool", "link": "https://github.com/user/security-audit"}
@@ -150,10 +150,11 @@
     "certificateUrl": "/certificates/thumbnails/Cpp-DSA neo.png",
     "downloadUrl": "/certificates/pdfs/Cpp-DSA neo.pdf",
     "thumbnailUrl": "/certificates/thumbnails/Cpp-DSA neo.png",
-    "whatILearned": "Advanced data structures (trees, graphs, heaps) and algorithm optimization techniques. Mastered time and space complexity analysis with competitive programming skills.",
+    "whatILearned": "Mastered advanced data structures (trees, graphs, heaps) and algorithm optimization techniques. Mastered time and space complexity analysis with competitive programming skills.",
     "projects": [
-      {"name": "Algorithm Visualizer", "link": "https://github.com/user/algo-visualizer"},
-      {"name": "Competitive Programming Solutions", "link": "https://github.com/user/cp-solutions"}
+      {"name": "DSA", "link": "https://github.com/CodeByAshuu/DSA"},
+      {"name": "CipherSchools", "link": "https://github.com/CodeByAshuu/CipherSchools"},
+      {"name": "MasteringInterviewPrep - CipherSchool", "link": "https://github.com/CodeByAshuu/MasteringInterviewPrep-CipherSchools"}
     ]
   },
   {
@@ -165,7 +166,7 @@
     "certificateUrl": "/certificates/thumbnails/Java neo.png",
     "downloadUrl": "/certificates/pdfs/Java neo.pdf",
     "thumbnailUrl": "/certificates/thumbnails/Java neo.png",
-    "whatILearned": "Advanced data structures (trees, graphs, heaps) and algorithm optimization techniques. Mastered time and space complexity analysis with competitive programming skills.",
+    "whatILearned": "Mastered Java programming fundamentals including object-oriented programming, data structures, and algorithms. Gained hands-on experience with Java Collections Framework and concurrency.",
     "projects": [
       {"name": "Algorithm Visualizer", "link": "https://github.com/user/algo-visualizer"},
       {"name": "Competitive Programming Solutions", "link": "https://github.com/user/cp-solutions"}
@@ -180,7 +181,7 @@
     "certificateUrl": "/certificates/thumbnails/WebDesign freeCodeCamp.png",
     "downloadUrl": "/certificates/pdfs/WebDesign freeCodeCamp.pdf",
     "thumbnailUrl": "/certificates/thumbnails/WebDesign freeCodeCamp.png",
-    "whatILearned": "Advanced data structures (trees, graphs, heaps) and algorithm optimization techniques. Mastered time and space complexity analysis with competitive programming skills.",
+    "whatILearned": "Mastered responsive web design principles including HTML5, CSS3, and accessibility standards. Gained hands-on experience with building mobile-friendly web applications.",
     "projects": [
       {"name": "Algorithm Visualizer", "link": "https://github.com/user/algo-visualizer"},
       {"name": "Competitive Programming Solutions", "link": "https://github.com/user/cp-solutions"}
@@ -195,10 +196,9 @@
     "certificateUrl": "/certificates/thumbnails/WebDev udemy.jpg",
     "downloadUrl": "/certificates/pdfs/WebDev Udemy.pdf",
     "thumbnailUrl": "/certificates/thumbnails/WebDev udemy.jpg",
-    "whatILearned": "Advanced data structures (trees, graphs, heaps) and algorithm optimization techniques. Mastered time and space complexity analysis with competitive programming skills.",
+    "whatILearned": "Mastered full-stack web development including front-end and back-end technologies. Gained hands-on experience with building dynamic web applications using modern frameworks and libraries. Mastered RESTful API design and integration. Learned about Web3 technologies, blockchain integration, and building decentralized applications (DApps).",
     "projects": [
-      {"name": "Algorithm Visualizer", "link": "https://github.com/user/algo-visualizer"},
-      {"name": "Competitive Programming Solutions", "link": "https://github.com/user/cp-solutions"}
+      {"name": "OpenShelf", "link": "https://openshelf-beige.vercel.app/"}
     ]
   },
   {
@@ -210,7 +210,7 @@
     "certificateUrl": "/certificates/thumbnails/Graphic Design udemy.jpg",
     "downloadUrl": "/certificates/pdfs/Graphic Design udemy.pdf",
     "thumbnailUrl": "/certificates/thumbnails/Graphic Design udemy.jpg",
-    "whatILearned": "Advanced data structures (trees, graphs, heaps) and algorithm optimization techniques. Mastered time and space complexity analysis with competitive programming skills.",
+    "whatILearned": "Mastered graphic design principles including typography, color theory, and layout design. Gained hands-on experience with industry-standard design software such as Adobe Illustrator, Photoshop, and InDesign. Learned about creating visually appealing designs for print and digital media.",
     "projects": [
       {"name": "Algorithm Visualizer", "link": "https://github.com/user/algo-visualizer"},
       {"name": "Competitive Programming Solutions", "link": "https://github.com/user/cp-solutions"}
@@ -225,10 +225,10 @@
     "certificateUrl": "/certificates/thumbnails/MERN with Gen AI W3Grads.png",
     "downloadUrl": "/certificates/pdfs/MERN with Gen AI W3Grads.pdf",
     "thumbnailUrl": "/certificates/thumbnails/MERN with Gen AI W3Grads.png",
-    "whatILearned": "Advanced data structures (trees, graphs, heaps) and algorithm optimization techniques. Mastered time and space complexity analysis with competitive programming skills.",
+    "whatILearned": "Mastered full-stack web development using the MERN stack (MongoDB, Express.js, React.js, Node.js) with a focus on integrating Generative AI technologies. Gained hands-on experience with building scalable web applications, implementing JWT authentication, and utilizing Git and GitHub for version control. Learned about AI integration techniques to enhance user experiences in web applications. SCRUM and Agile methodologies for project management.",
     "projects": [
-      {"name": "Algorithm Visualizer", "link": "https://github.com/user/algo-visualizer"},
-      {"name": "Competitive Programming Solutions", "link": "https://github.com/user/cp-solutions"}
+      {"name": "Krush AI", "link": "https://krush-ai.vercel.app/"},
+      {"name": "OpenShelf", "link": "https://openshelf-beige.vercel.app/"}
     ]
   }
 
