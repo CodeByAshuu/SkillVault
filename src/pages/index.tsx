@@ -91,7 +91,7 @@ const Index = () => {
               {[
                 { icon: Github, label: "GitHub", href: "https://github.com/CodeByAshuu" },
                 { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/sagarrrr/" },
-                { icon: Mail, label: "Email", href: "https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsmHbFSZFjqrcBCsnWpdTFJnvJZHKhgHtTBvSXplBqGQhsGSqLwScxhcbQWPHtxMVcsdQkBB" }
+                { icon: Mail, label: "Email", href: "mailto: sagarsahu5976@gmail.com" }
               ].map(({ icon: Icon, label, href }) => (
                 <a
                   key={label}
@@ -195,7 +195,7 @@ const Index = () => {
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" asChild>
-              <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsmHbFSZFjqrcBCsnWpdTFJnvJZHKhgHtTBvSXplBqGQhsGSqLwScxhcbQWPHtxMVcsdQkBB">
+              <a href="mailto:sagarsahu5976@gmail.com">
                 <Mail className="w-5 h-5 mr-2" />
                 Get In Touch
               </a>
