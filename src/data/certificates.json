@@ -236,14 +236,14 @@
     "title": "Bits and Bytes",
     "platform": "Coursera",
     "field": "Computer Organisation And Design",
-    "tags": ["", "", "", ""],
+    "tags": ["binary-systems", "data-representation", "hardware-components", "computer-architecture"],
     "certificateUrl": "/certificates/thumbnails/Bits&Bytes Coursera Google.jpeg",
     "downloadUrl": "/certificates/pdfs/Bits&Bytes Coursera Google.pdf",
     "thumbnailUrl": "/certificates/thumbnails/Bits&Bytes Coursera Google.jpeg",
-    "whatILearned": "Mastered graphic design principles including typography, color theory, and layout design. Gained hands-on experience with industry-standard design software such as Adobe Illustrator, Photoshop, and InDesign. Learned about creating visually appealing designs for print and digital media.",
+    "whatILearned": "Learned the fundamentals of computer organization and design, including binary systems, data representation, and basic hardware components. Gained insights into how computers process information at a low level.",
     "projects": [
-      {"name": "Algorithm Visualizer", "link": "https://github.com/user/algo-visualizer"},
-      {"name": "Competitive Programming Solutions", "link": "https://github.com/user/cp-solutions"}
+      {"name": "Binary Calculator", "link": "https://github.com/user/binary-calculator"},
+      {"name": "Logic Gate Simulator", "link": "https://github.com/user/logic-gate-simulator"}
     ]
   },
   {
@@ -251,14 +251,14 @@
     "title": "Introduction to Hardware and Software",
     "platform": "Coursera",
     "field": "Computer Organisation And Design",
-    "tags": ["", "", "", ""],
+    "tags": ["hardware", "software"],
     "certificateUrl": "/certificates/thumbnails/IntroToHW&SW IBM.jpeg",
     "downloadUrl": "/certificates/pdfs/IntroToHW&SW IBM.pdf",
     "thumbnailUrl": "/certificates/thumbnails/IntroToHW&SW IBM.jpeg",
-    "whatILearned": "Mastered graphic design principles including typography, color theory, and layout design. Gained hands-on experience with industry-standard design software such as Adobe Illustrator, Photoshop, and InDesign. Learned about creating visually appealing designs for print and digital media.",
+    "whatILearned": "Learned the fundamentals of hardware and software, including the interaction between hardware components and software applications. Gained insights into the architecture of computer systems and the role of operating systems in managing hardware resources.",
     "projects": [
-      {"name": "Algorithm Visualizer", "link": "https://github.com/user/algo-visualizer"},
-      {"name": "Competitive Programming Solutions", "link": "https://github.com/user/cp-solutions"}
+      {"name": "Hardware Simulator", "link": "https://github.com/user/hardware-simulator"},
+      {"name": "Software Debugger", "link": "https://github.com/user/software-debugger"}
     ]
   },
   {
@@ -266,14 +266,14 @@
     "title": "Computer Communication",
     "platform": "Coursera",
     "field": "Computer Networking",
-    "tags": ["", "", "", ""],
+    "tags": ["cisco-packet-tracer", "networking", "data-transmission", "protocols"],
     "certificateUrl": "/certificates/thumbnails/CompCommunication Uni of Colorado.jpeg",
     "downloadUrl": "/certificates/pdfs/CompCommunication Uni of Colorado.pdf",
     "thumbnailUrl": "/certificates/thumbnails/CompCommunication Uni of Colorado.jpeg",
-    "whatILearned": "Mastered graphic design principles including typography, color theory, and layout design. Gained hands-on experience with industry-standard design software such as Adobe Illustrator, Photoshop, and InDesign. Learned about creating visually appealing designs for print and digital media.",
+    "whatILearned": "Learned the fundamentals of computer communication, including network protocols, data transmission, and error detection techniques. Gained insights into how computers exchange information over networks.",
     "projects": [
-      {"name": "Algorithm Visualizer", "link": "https://github.com/user/algo-visualizer"},
-      {"name": "Competitive Programming Solutions", "link": "https://github.com/user/cp-solutions"}
+      {"name": "Network Simulation", "link": "https://github.com/user/network-simulation"},
+      {"name": "Data Transmission Analyzer", "link": "https://github.com/user/data-transmission-analyzer"}
     ]
   },
   {
@@ -281,14 +281,14 @@
     "title": "Fundamentals of Network Communication",
     "platform": "Coursera",
     "field": "Computer Networking",
-    "tags": ["", "", "", ""],
+    "tags": ["networking", "data-transmission", "protocols", "error-detection"],
     "certificateUrl": "/certificates/thumbnails/FundamentalOfNetworkCommunication coursera Uni of colorado.jpeg",
     "downloadUrl": "/certificates/pdfs/FundamentalOfNetworkCommunication coursera Uni of colorado.pdf",
     "thumbnailUrl": "/certificates/thumbnails/FundamentalOfNetworkCommunication coursera Uni of colorado.jpeg",
-    "whatILearned": "Mastered graphic design principles including typography, color theory, and layout design. Gained hands-on experience with industry-standard design software such as Adobe Illustrator, Photoshop, and InDesign. Learned about creating visually appealing designs for print and digital media.",
+    "whatILearned": "Learned the fundamentals of network communication, including data transmission, error detection, and network protocols. Gained insights into how networks operate and how data is exchanged between devices.",
     "projects": [
-      {"name": "Algorithm Visualizer", "link": "https://github.com/user/algo-visualizer"},
-      {"name": "Competitive Programming Solutions", "link": "https://github.com/user/cp-solutions"}
+      {"name": "Network Packet Analyzer", "link": "https://github.com/user/network-packet-analyzer"},
+      {"name": "Protocol Simulator", "link": "https://github.com/user/protocol-simulator"}
     ]
   },
   {
@@ -296,14 +296,14 @@
     "title": "Packet Switching and Networking",
     "platform": "Coursera",
     "field": "Computer Networking",
-    "tags": ["", "", "", ""],
+    "tags": ["packet-switching", "networking", "data-transmission", "protocols"],
     "certificateUrl": "/certificates/thumbnails/PacketSwitching&Networks Uni of Colorado.jpeg",
     "downloadUrl": "/certificates/pdfs/PacketSwitching&Networks Uni of Colorado.pdf",
     "thumbnailUrl": "/certificates/thumbnails/PacketSwitching&Networks Uni of Colorado.jpeg",
-    "whatILearned": "Mastered graphic design principles including typography, color theory, and layout design. Gained hands-on experience with industry-standard design software such as Adobe Illustrator, Photoshop, and InDesign. Learned about creating visually appealing designs for print and digital media.",
+    "whatILearned": "Learned the principles of packet switching and networking, including how data is divided into packets for transmission over networks. Gained insights into network topologies, routing algorithms, and quality of service (QoS) considerations.",
     "projects": [
-      {"name": "Algorithm Visualizer", "link": "https://github.com/user/algo-visualizer"},
-      {"name": "Competitive Programming Solutions", "link": "https://github.com/user/cp-solutions"}
+      {"name": "Packet Routing Simulator", "link": "https://github.com/user/packet-routing-simulator"},
+      {"name": "Network Latency Analyzer", "link": "https://github.com/user/network-latency-analyzer"}
     ]
   },
   {
@@ -311,14 +311,14 @@
     "title": "Peer-to-Peer Protocols",
     "platform": "Coursera",
     "field": "Computer Networking",
-    "tags": ["", "", "", ""],
+    "tags": ["peer-to-peer", "protocols", "networking", "data-transmission"],
     "certificateUrl": "/certificates/thumbnails/Peer2PeerProtocol Uni of colorado.jpeg",
     "downloadUrl": "/certificates/pdfs/Peer2PeerProtocol Uni of colorado.pdf",
     "thumbnailUrl": "/certificates/thumbnails/Peer2PeerProtocol Uni of colorado.jpeg",
-    "whatILearned": "Mastered graphic design principles including typography, color theory, and layout design. Gained hands-on experience with industry-standard design software such as Adobe Illustrator, Photoshop, and InDesign. Learned about creating visually appealing designs for print and digital media.",
+    "whatILearned": "Learned the fundamentals of peer-to-peer protocols, including decentralized communication, data sharing, and resource distribution. Gained insights into how peer-to-peer networks operate and their applications in distributed systems.",
     "projects": [
-      {"name": "Algorithm Visualizer", "link": "https://github.com/user/algo-visualizer"},
-      {"name": "Competitive Programming Solutions", "link": "https://github.com/user/cp-solutions"}
+      {"name": "P2P File Sharing System", "link": "https://github.com/user/p2p-file-sharing"},
+      {"name": "Decentralized Chat Application", "link": "https://github.com/user/decentralized-chat-app"}
     ]
   },
   {
@@ -326,14 +326,14 @@
     "title": "TCP/IP and Advanced Topics",
     "platform": "Coursera",
     "field": "Computer Networking",
-    "tags": ["", "", "", ""],
+    "tags": ["tcp/ip", "networking", "protocols"],
     "certificateUrl": "/certificates/thumbnails/TCP IP&AdvancedTopic Uni of Colorado.jpeg",
     "downloadUrl": "/certificates/pdfs/TCP IP&AdvancedTopic Uni of Colorado.pdf",
     "thumbnailUrl": "/certificates/thumbnails/TCP IP&AdvancedTopic Uni of Colorado.jpeg",
-    "whatILearned": "Mastered graphic design principles including typography, color theory, and layout design. Gained hands-on experience with industry-standard design software such as Adobe Illustrator, Photoshop, and InDesign. Learned about creating visually appealing designs for print and digital media.",
+    "whatILearned": "Learned the principles of TCP/IP protocols and advanced networking topics, including IP addressing, subnetting, and routing. Gained insights into network security, VPNs, and emerging networking technologies.",
     "projects": [
-      {"name": "Algorithm Visualizer", "link": "https://github.com/user/algo-visualizer"},
-      {"name": "Competitive Programming Solutions", "link": "https://github.com/user/cp-solutions"}
+      {"name": "TCP/IP Network Simulator", "link": "https://github.com/user/tcp-ip-network-simulator"},
+      {"name": "Advanced Routing Algorithms", "link": "https://github.com/user/advanced-routing-algorithms"}
     ]
   },
   {
@@ -341,14 +341,14 @@
     "title": "Computational Theory: Language Principle & Formal Automata Theory",
     "platform": "Infosys",
     "field": "Computer Science",
-    "tags": ["", "", "", ""],
+    "tags": ["computational-theory", "formal-automata", "language-principles", "theoretical-computer-science"],
     "certificateUrl": "/certificates/thumbnails/Computational Theory Infosys.png",
     "downloadUrl": "/certificates/pdfs/Computational Theory Infosys.pdf",
     "thumbnailUrl": "/certificates/thumbnails/Computational Theory Infosys.png",
-    "whatILearned": "Mastered graphic design principles including typography, color theory, and layout design. Gained hands-on experience with industry-standard design software such as Adobe Illustrator, Photoshop, and InDesign. Learned about creating visually appealing designs for print and digital media.",
+    "whatILearned": "Learned the principles of computational theory, including language principles, formal automata, and theoretical computer science concepts. Gained insights into the mathematical foundations of computation and its applications in computer science.",
     "projects": [
-      {"name": "Algorithm Visualizer", "link": "https://github.com/user/algo-visualizer"},
-      {"name": "Competitive Programming Solutions", "link": "https://github.com/user/cp-solutions"}
+      {"name": "Finite Automata Simulator", "link": "https://github.com/user/finite-automata-simulator"},
+      {"name": "Turing Machine Emulator", "link": "https://github.com/user/turing-machine-emulator"}
     ]
   }
 ]
